@@ -20,7 +20,7 @@ dataset/
 ```
 
 ## 🔍 Tujuan Penggunaan
-Dataset ini digunakan dalam proyek SAMPIS (Sampah Pintar Sistem), yang bertujuan untuk:
+Dataset ini digunakan dalam proyek SAMPIS, yang bertujuan untuk:
 - Melatih model klasifikasi citra sampah.
 - Mengintegrasikan model ke dalam aplikasi berbasis website.
 
